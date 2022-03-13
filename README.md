@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dev-Anky07
 - 👀 I’m interested in Smart Contracts and Neural Networks
 - 🌱 I’m currently learning Full Stack Web3.0 Developement
-- 💞️ I’m looking to collaborate on Ios app developement
+- 💞️ I’m looking to collaborate on Web 3.0 developement
 - 📫 How to reach me (Via gmail) @dev.anky.b@gmail.com
 
 <!---
