@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dev-Anky07
 - 👀 I’m interested in Smart Contracts and Neural Networks
-- 🌱 Consulting @BsMfers and BoredHuskyKC and Web3-Ventures
+- 🌱 Consulting @BsMfers, BoredHuskyKC and Web3-Ventures among others
 - 💞️ Twitter @ThreatT0Society
 - 📫 How to reach me (Via gmail) @dev.anky.b@gmail.com
 
